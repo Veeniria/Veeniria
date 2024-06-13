@@ -1,4 +1,4 @@
-COMMIT ON MY ATA BOOK!
+COMMENT ON MY ATA BOOK!
 
 <!---
 Veeniria/Veeniria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
